@@ -1,15 +1,15 @@
-# Mortgage-Customer-Complaints-Analyzer
-An NLP based solution to automate the task of finding issues mentioned in a mortgage specific customer complaint. 
+# Topic Modeling of Mortgage Complaints
 
+An NLP based solution to identify key topics present in mortgage specific customer complaints.
 
 ## Product overview
 
-Topic Modelling based solution for customer complaints on Mortgage, which clusters customer complaints into topics based on the narratives provided. Given a set of customer complaints narratives, this solution identifies for each complaint the top three issues mentioned in the narrative. The task of identifying what mortgage issue is being mentioned in a customer complaint requires human involvement and based on the issue an action must be taken accordingly. This process of identifying the issue can be automated with this solution. 
+Topic Modelling based solution for customer complaints about Mortgage services. The solution clusters customer complaints into topics based on the narratives provided. Given a set of customer complaints narratives, this solution identifies for each complaint the top three issues mentioned in the narrative. The task of identifying what mortgage issue is being mentioned in a customer complaint requires human involvement and the same is being automated with this solution. 
 
 ## Product Highlight 
 
-* This solution takes customer complaints narratives as input and predicts the top three categories of complaints thereby automating the task which previously required manual classification.
-* The analyser is specifically trained on customers complaints narratives pertaining to mortgage issues faced by the customers using natural language processing. 
+* The solution takes customer complaints narratives as input and predicts the top three categories of complaints thereby automating the task which previously required manual classification. This solution has been trained on customer complaint databases.
+* The solution is specifically trained on customer complaint narratives pertaining to mortgage issues faced by the customers.
 * Mphasis HyperGraf is an omni-channel customer 360 analytics solution. Need customized Deep Learning/NLP solutions? Get in touch! 
 
 ## Amazon Marketplace Link
